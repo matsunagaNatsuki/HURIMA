@@ -18,6 +18,7 @@ class EventServiceProvider extends ServiceProvider
         Registered::class => [
             SendEmailVerificationNotification::class,
         ],
+        // /Users/matsunaganatsuki/Mogi.Anken/coachtech-mockcase-1/src/vendor/laravel/framework/src/Illuminate/Auth/Listeners/SendEmailVerificationNotification.php
     ];
 
     /**
